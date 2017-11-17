@@ -1,0 +1,11 @@
+# CAEN
+Host CAEN
+    HostName login.engin.umich.edu
+    User joezhong
+    Compression yes
+
+#Github
+Host github
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
